@@ -1,5 +1,3 @@
-# 112
-自介
 <!doctype html>
 <html lang="zh-Hant">
 <head>
